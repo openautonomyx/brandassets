@@ -1,0 +1,17 @@
+{
+  "$schema": "https://design-tokens.github.io/community-group/format/",
+  "brand": {
+    "autonomyBlue": { "$type": "color", "$value": "#0B3A75" },
+    "innovationBlue": { "$type": "color", "$value": "#00A3FF" },
+    "enterpriseBlack": { "$type": "color", "$value": "#0B1220" },
+    "slate": { "$type": "color", "$value": "#475569" },
+    "white": { "$type": "color", "$value": "#FFFFFF" }
+  },
+  "semantic": {
+    "background": { "$type": "color", "$value": "{brand.white}" },
+    "foreground": { "$type": "color", "$value": "{brand.enterpriseBlack}" },
+    "primary": { "$type": "color", "$value": "{brand.autonomyBlue}" },
+    "accent": { "$type": "color", "$value": "{brand.innovationBlue}" },
+    "muted": { "$type": "color", "$value": "{brand.slate}" }
+  }
+}
