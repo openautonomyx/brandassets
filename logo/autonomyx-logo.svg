@@ -1,0 +1,19 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AutonomyX logo</title>
+  <desc id="desc">AutonomyX wordmark with open enterprise innovation tagline and reconciliation-loop symbol.</desc>
+  <rect width="1200" height="360" fill="#FFFFFF"/>
+  <g transform="translate(72 48)">
+    <path d="M132 12C198.274 12 252 65.7258 252 132C252 198.274 198.274 252 132 252C65.7258 252 12 198.274 12 132C12 65.7258 65.7258 12 132 12Z" stroke="#0B3A75" stroke-width="24" stroke-linecap="round"/>
+    <path d="M210 42L252 0" stroke="#FFFFFF" stroke-width="36" stroke-linecap="round"/>
+    <path d="M68 208L132 56L196 208" stroke="#0B3A75" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 148H168" stroke="#0B3A75" stroke-width="20" stroke-linecap="round"/>
+    <path d="M205 46C226 67 238 98 238 132" stroke="#00A3FF" stroke-width="16" stroke-linecap="round"/>
+    <path d="M238 132L214 104" stroke="#00A3FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M238 132L262 104" stroke="#00A3FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g transform="translate(380 98)">
+    <text x="0" y="86" font-family="IBM Plex Sans, Inter, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3" fill="#0B1220">Autonomy</text>
+    <text x="430" y="86" font-family="IBM Plex Sans, Inter, Arial, sans-serif" font-size="88" font-weight="700" letter-spacing="-3" fill="#0B3A75">X</text>
+    <text x="4" y="138" font-family="IBM Plex Sans, Inter, Arial, sans-serif" font-size="30" font-weight="500" letter-spacing="1.8" fill="#475569">Open Enterprise Innovation</text>
+  </g>
+</svg>
