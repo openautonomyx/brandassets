@@ -1,0 +1,14 @@
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AutonomyX mark</title>
+  <desc id="desc">Open reconciliation loop with an A-shaped kernel core.</desc>
+  <rect width="320" height="320" rx="32" fill="#FFFFFF"/>
+  <g transform="translate(28 28)">
+    <path d="M132 12C198.274 12 252 65.7258 252 132C252 198.274 198.274 252 132 252C65.7258 252 12 198.274 12 132C12 65.7258 65.7258 12 132 12Z" stroke="#0B3A75" stroke-width="24" stroke-linecap="round"/>
+    <path d="M210 42L252 0" stroke="#FFFFFF" stroke-width="36" stroke-linecap="round"/>
+    <path d="M68 208L132 56L196 208" stroke="#0B3A75" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 148H168" stroke="#0B3A75" stroke-width="20" stroke-linecap="round"/>
+    <path d="M205 46C226 67 238 98 238 132" stroke="#00A3FF" stroke-width="16" stroke-linecap="round"/>
+    <path d="M238 132L214 104" stroke="#00A3FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M238 132L262 104" stroke="#00A3FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
