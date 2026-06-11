@@ -8,18 +8,17 @@ AutonomyX is a Framework First enterprise innovation platform built on a Trusted
 
 ## Core doctrine
 
-- Framework First
-- Trust as a Primitive
-- Stable Substrate
-- Stable Graph
-- Proto as Contract
-- Fabric as the Graph
-- Rust as the Kernel
-- SurrealDB as the Runtime Provider
-- OpenTofu as Infrastructure as Code
-- Operator Framework as Reconciliation
-- Kubernetes and OpenShift as Execution
-- Open Metal as the Base
+1. Framework First
+2. Trust as a Primitive
+3. Stable Substrate
+4. Proto as Contract
+5. Rust as the Kernel
+6. Fabric as the Stable Graph
+7. SurrealDB as the Runtime Provider
+8. OpenTofu as Infrastructure as Code
+9. Operator Framework as Reconciliation
+10. Kubernetes and OpenShift as Execution
+11. Open Metal as the Base
 
 ## Canonical brand line
 
